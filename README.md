@@ -1,2 +1,20 @@
-# shopping-listapp
-간단한 쇼핑 리스트 웹 앱 (HTML/CSS/JS)
+# 🛒 쇼핑 리스트 앱
+
+순수 HTML/CSS/JavaScript로 만든 간단한 쇼핑 리스트 웹 앱입니다.
+
+## 기능
+
+- 항목 추가 / 삭제
+- 체크박스로 구매 완료 표시 (토글)
+- 전체 개수와 남은 항목 개수 표시
+- `localStorage`를 이용한 데이터 저장 (새로고침해도 유지)
+
+## 사용 방법
+
+`index.html` 파일을 웹 브라우저로 열기만 하면 됩니다. 별도의 빌드나 설치 과정이 필요 없습니다.
+
+## 기술 스택
+
+- HTML
+- CSS
+- Vanilla JavaScript
